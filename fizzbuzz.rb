@@ -9,6 +9,5 @@ def fizzbuzz(n)
     'Fizz'
   elsif n % 5 == 0
     'Buzz'
-  
   end
 end
